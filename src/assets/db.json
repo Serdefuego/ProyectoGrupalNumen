@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "src/assets/imgs/auriculares.jpeg",
+        "title": "ASTRO A30 INALÁMBRICOS",
+        "shortDesc": "Auriculares inalámbricos para gaming LIGHTSPEED para Xbox, PlayStation, PC / MAC y dispositivos móviles.",
+        "description": "A30 Wireless combina la máxima flexibilidad, movilidad, estilo y comodidad en unos auriculares para juegos LIGHTSPEED y Bluetooth que pueden reproducirse en cualquier plataforma. Juega a cualquier cosa en cualquier lugar con A30 Wireless, compatible con Xbox Series X | S, PlayStation 5, Nintendo Switch, PC / MAC, dispositivos móviles y más. * Domina a la perfección todo tu entorno sonoro digital mientras conectas y mezclas simultáneamente varios dispositivos.",
+        "price": 250
+      },
+      {
+        "id": 2,
+        "img": "src/assets/imgs/webcam.jpg",
+        "title": "LOGITECH STREAMCAM",
+        "shortDesc": "Cámara con Full HD y USB-C para creación de contenido",
+        "description": "Logitech StreamCam hace streaming y graba con resolución Full HD 1080p a 60 fps, ofreciendo excepcional video con movimiento fluido para tu mundo online. Tanto para grabar videos de YouTube como para streaming en Twitch y otras cosas, la lente de cristal premium y el sistema de enfoque automático inteligente de StreamCam facilitan la obtención de resultados de calidad profesional. Funciones avanzadas como las de encuadre automático y exposición inteligente garantizan la mejor imagen con cualquier tipo de iluminación",
+        "price": 100
+      },
+      {
+        "id": 3,
+        "img": "src/assets/imgs/mouse.jpg",
+        "title": "LOGITECH G705",
+        "shortDesc": "Mouse inalámbrico para juegos",
+        "description": "De The Aurora Collection, el mouse inalámbrico G705 para juegos tiene una forma pensada para el confort y el control, con un diseño también apto para manos pequeñas. Con tecnología inalámbrica LIGHTSPEED para juegos, RGB LIGHTSYNC y tecnología avanzada para juegos.",
+        "price": 100
+      }
+    ],
+    "cart" : []
+}
